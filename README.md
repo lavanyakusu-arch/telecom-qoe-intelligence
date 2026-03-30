@@ -133,28 +133,28 @@ QoE Score [1.0 – 5.0]              MOS-style score → Poor / Fair / Good / Ex
 ## Screenshots
 
 ### Sidebar & Model Info
-![Sidebar](screenshots/sidebar.png)
+![Sidebar](Screenshots/sidebar.png)
 
 ### Fleet KPI Overview
-![Fleet KPI Overview](screenshots/fleet_kpi_overview.png)
+![Fleet KPI Overview](Screenshots/fleet_kpi_overview.png)
 
 ### Network Condition Alarms
-![Network Alarms](screenshots/network_alarms.png)
+![Network Alarms](Screenshots/network_alarms.png)
 
 ### QoE Distribution & Application Breakdown
-![QoE Distribution](screenshots/qoe_distribution.png)
+![QoE Distribution](Screenshots/qoe_distribution.png)
 
 ### KPI Deep-Dive by Application
-![KPI Deep Dive](screenshots/kpi_deepdive.png)
+![KPI Deep Dive](Screenshots/kpi_deepdive.png)
 
 ### Network Condition Analysis
-![Network Analysis](screenshots/network_analysis.png)
+![Network Analysis](Screenshots/network_analysis.png)
 
 ### Worst 50 UE Subscriber Table
-![Subscriber Table](screenshots/subscriber_table.png)
+![Subscriber Table](Screenshots/subscriber_table.png)
 
 ### UE Inspector
-![UE Inspector](screenshots/ue_inspector.png)
+![UE Inspector](Screenshots/ue_inspector.png)
 
 ---
 
