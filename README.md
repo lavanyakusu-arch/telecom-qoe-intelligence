@@ -109,8 +109,6 @@ QoE Score [1.0 – 5.0]              MOS-style score → Poor / Fair / Good / Ex
 |---|---|
 | **UE Picker** | Filter by app type and QoE category, rank slider (worst → best) |
 | **UE Detail Card** | IMSI, QoE score with colour-coded category badge, all raw KPI values |
-| **Feature Contribution Chart** | Horizontal bar chart of all 20 scaled features sent to the model — green = above median (good), red = below median (bad) |
-| **Feature Table** | Raw value + scaled value for each of the 20 model features, colour-gradient coded |
 
 ### Alarm Types
 
