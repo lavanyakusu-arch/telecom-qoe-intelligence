@@ -148,7 +148,7 @@ QoE Score [1.0 – 5.0]              MOS-style score → Poor / Fair / Good / Ex
 ### Network Condition Analysis
 ![Network Analysis](Screenshots/network_analysis.png)
 
-### Worst 50 UE Subscriber Table
+### Per Application Insights and Worst 50 UE Subscriber Table
 ![Subscriber Table](Screenshots/subscriber_table.png)
 
 ### UE Inspector
